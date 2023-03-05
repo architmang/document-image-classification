@@ -1,1 +1,1 @@
-# image-classification-datathon-IR
+# Document Image Classification
