@@ -4,5 +4,5 @@ We have a set of grayscale document images and the task is to classify each imag
 In our approach, we employ pre-trained CNNs & Transformers using the concept of Transfer Learning to perform Image Classification.
 
 ## Results
-∗ Boosted accuracy score by 15% by appending a Supervised Contrastive loss function to the ResNET module
+∗ Boosted accuracy score by 15% by appending a Supervised Contrastive loss function to the ResNET module \n
 ∗ Improved acc by 29% with bootstrap aggregation of MobileViT, MobileNet models achieving 77% overall accuracy
